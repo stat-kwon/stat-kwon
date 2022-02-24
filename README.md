@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=SeolMin&fontAlign=80&fontAlignY=40)
 
 <h3 align="center">👋 Hi there, I'm Seol Min </h3>
-<h3 align="center">🙆‍♂️ I hope to become a backend developer.</h3>
+<h3 align="center">🙆‍♂️ I am a backend developer working in the cloud field.</h3>
+<h3 align="center">🔥 I am currently studying deeply in Kubernetes and Python.</h3>
 <br>
 <br>
 <h3 align="center">📌 Back-end Stack </h3>
